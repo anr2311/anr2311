@@ -14,7 +14,7 @@
       <p><strong>🚗 Embedded Software Engineer:</strong> Currently working in the automotive industry in India.</p>
       <p><strong>🌱 Education:</strong> Pursuing a master’s degree in Embedded Systems from BITS, Pilani.</p>
       <p><strong>🍕 Hobbies:</strong> In my free time I work on exciting projects involving sensors & microcontroller-based systems.</p>
-      <p><strong>📫 Connect with Me:</strong></p>
+      <p><strong>📫 Connect with Me:</strong>
       <a href="https://www.linkedin.com/in/adinr/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/ width="70">
   </a></p>
