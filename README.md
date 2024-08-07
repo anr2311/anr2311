@@ -11,7 +11,7 @@
       <img src="https://media.giphy.com/media/tT2FEbKu63KxdFubmY/giphy.gif" width="100" style="display: block;">
     </td>
     <td style="vertical-align: top; border: none; border-color: transparent;">
-      <p>I am an Embedded Software Developer <img src="https://st5.depositphotos.com/3205185/64911/v/450/depositphotos_649116368-stock-illustration-cpu-microprocessor-isolated-white-background.jpg" width="30" height="auto" style="display: block;"> from India.</p>
+      <p>I am an Embedded Software Developer from India.</p>
       <p>- :telescope: I’m working as a Software Engineer and contributing to development of the automotive electronics and related software.</p>
     </td>
   </tr>
