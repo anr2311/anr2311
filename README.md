@@ -15,9 +15,9 @@
       <p><strong>🌱 Education:</strong> Pursuing a master’s degree in Embedded Systems from BITS, Pilani.</p>
       <p><strong>🍕 Hobbies:</strong> In my free time I work on exciting projects involving sensors & microcontroller-based systems.</p>
       <p><strong>📫 Connect with Me:</strong>
-      <a href="https://www.linkedin.com/in/adinr/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="auto" style="border-radius: 20px; margin-top: 5px;">
-  </a></p>
+      <a href="https://www.linkedin.com/in/adinr/" style="display: inline-block; vertical-align: middle;">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="auto" style="border-radius: 20px; vertical-align: middle; margin-left: 5px;">
+      </a></p>
     </td>
   </tr>
 </table>
