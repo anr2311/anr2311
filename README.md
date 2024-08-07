@@ -16,7 +16,7 @@
       <p><strong>🍕 Hobbies:</strong> In my free time I work on exciting projects involving sensors & microcontroller-based systems.</p>
       <p><strong>📫 Connect with Me:</strong> Feel free to give me a ping on
       <a href="https://www.linkedin.com/in/adinr/" style="display: inline-block; vertical-align: middle;">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 10%; border-collapse: collapse; table-layout: fixed;">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 10%; padding: 10px; border-collapse: collapse; table-layout: fixed;">
       </a></p>
     </td>
   </tr>
