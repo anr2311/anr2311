@@ -5,12 +5,12 @@
 ---
 
 ### :woman_technologist: About Me :
-<style>
+<table style="width: 100%; table-layout: fixed; border-collapse: collapse; border: none;">
+  <style>
 td, th {
    border: none!important;
 }
 </style>
-<table style="width: 100%; table-layout: fixed; border-collapse: collapse; border: none;">
   <tr>
     <td style="width: 150px; padding-right: 20px; vertical-align: top; border: none;">
       <img src="https://media.giphy.com/media/tT2FEbKu63KxdFubmY/giphy.gif" width="100" style="display: block; border-radius: 8px;" alt="Animated GIF">
