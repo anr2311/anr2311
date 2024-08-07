@@ -5,7 +5,7 @@
 ---
 
 ### :woman_technologist: About Me :
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 200%; border-collapse: collapse;">
   <tr>
     <td style="width: 20%; padding-right: 20px; vertical-align: top; border: none;">
       <img src="https://media.giphy.com/media/tT2FEbKu63KxdFubmY/giphy.gif" width="150">
