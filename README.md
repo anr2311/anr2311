@@ -37,6 +37,6 @@
 </div>
 
 ---
-### 🔥: Stats :
+### 🔥 Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anr2311&theme=flag-india)](https://git.io/streak-stats)
