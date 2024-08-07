@@ -5,12 +5,12 @@
 ---
 
 ### :woman_technologist: About Me :
-<table style="border:0px solid white; width:100%;">
+<table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
   <tr>
-    <td style="border:0px solid white; width:100%;">
-      <img src="https://media.giphy.com/media/tT2FEbKu63KxdFubmY/giphy.gif" width="100" style="display: block; border-radius: 8px;" alt="Animated GIF">
+    <td style="width: 50%; padding: 10px; box-sizing: border-box;">
+      <img src="https://media.giphy.com/media/tT2FEbKu63KxdFubmY/giphy.gif" alt="Top Languages" style="width: 100%; height: auto;">
     </td>
-    <td style="border:0px solid white; width:100%;">
+    <td style="width: 50%; padding: 10px; box-sizing: border-box;">
       <p><strong>🚗 Embedded Software Engineer:</strong> Currently working in the automotive industry in India.</p>
       <p><strong>🌱 Education:</strong> Pursuing a master’s degree in Embedded Systems from BITS, Pilani.</p>
       <p><strong>🍕 Hobbies:</strong> In my free time I work on exciting projects involving sensors & microcontroller-based systems.</p>
