@@ -46,7 +46,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=anr2311&theme=flag-india" alt="GitHub Streak" width="700" height="300"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anr2311" alt="Top Languages" width="300" height="300"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anr2311" alt="Top Languages" width="300" height="280"/>
   </a>
 </div>
 
