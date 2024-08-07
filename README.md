@@ -11,7 +11,7 @@
       <img src="https://media.giphy.com/media/tT2FEbKu63KxdFubmY/giphy.gif" width="100" style="display: block;">
     </td>
     <td style="vertical-align: top; border: none; border-color: transparent;">
-      <p>I am an Embedded Software Developer <img src="https://media.giphy.com/media/sAv1QowlCWId5aZv1g/giphy.gif" width="30"> from India.</p>
+      <p>I am an Embedded Software Developer <img src="https://64.media.tumblr.com/5b65a7018aea3037d28f62bbef78c6fb/tumblr_otlv7mzQov1vq24vjo1_500.gifv" width="30"> from India.</p>
       <p>- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.</p>
     </td>
   </tr>
