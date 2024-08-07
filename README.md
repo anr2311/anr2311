@@ -1,9 +1,3 @@
-## Hi there 👋
-
-```diff
-+ 1101011010110101011010
-+ 110101101011010
-+ 11010110
-+ 11010
-+ 11
-+ Hello, World!
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
