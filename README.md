@@ -3,6 +3,7 @@
 </div>
 
 ---
+
 ### :woman_technologist: About Me :
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse; border: none;">
   <tr>
@@ -22,6 +23,7 @@
 </table>
 
 ---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -37,13 +39,19 @@
 </div>
 
 ---
+
 ### 🔥 Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anr2311&theme=flag-india)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anr2311)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=anr2311&theme=flag-india" alt="GitHub Streak"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anr2311" alt="Top Languages"/>
+  </a>
+</div>
 
 ---
+
 ### ✍️ Blog Posts :
 
 Check back later! ⏲️
