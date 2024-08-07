@@ -5,6 +5,11 @@
 ---
 
 ### :woman_technologist: About Me :
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse; border: none;">
   <tr>
     <td style="width: 150px; padding-right: 20px; vertical-align: top; border: none;">
