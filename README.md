@@ -14,7 +14,9 @@
       <p>- 🚗: I'm an Embedded Software Engineer associated with the automotive industry in India.</p>
       <p>- 🌱: Pursuing my master's in Embedded Systems from Birla Institute of Technology and Sciences, Pilani.</p>
       <p>- 🍕: In my free time, I work on exciting hobby projects involving sensors and microcontroller based systems.</p>
-      <p>- 📫: Reach out to [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adinr/)</p>
+      <p>- 📫: Reach out to <a href="https://www.linkedin.com/in/adinr/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a></p>
     </td>
   </tr>
 </table>
