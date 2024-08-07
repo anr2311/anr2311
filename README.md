@@ -15,7 +15,7 @@
       <p>- 🌱: Pursuing my master's in Embedded Systems from Birla Institute of Technology and Sciences, Pilani.</p>
       <p>- 🍕: In my free time, I work on exciting hobby projects involving sensors and microcontroller based systems.</p>
       <p>- 📫: Reach out to me on <a href="https://www.linkedin.com/in/adinr/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/ width="100">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/ width="80">
   </a></p>
     </td>
   </tr>
