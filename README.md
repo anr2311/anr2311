@@ -11,7 +11,7 @@
       <img src="https://media.giphy.com/media/tT2FEbKu63KxdFubmY/giphy.gif" width="100" style="display: block;">
     </td>
     <td style="vertical-align: top; border: none; border-color: transparent;">
-      <p>I am an Embedded Software Developer from India.</p>
+      <p>- :telescope: I'm an Embedded Software Engineer associated with the automotive industry in India.</p>
       <p>- :telescope: Associated with the auotomotive electronics and associated software.</p>
     </td>
   </tr>
