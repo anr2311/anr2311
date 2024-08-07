@@ -7,7 +7,7 @@
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse; border: none;">
   <tr>
     <td style="width: 150px; padding-right: 20px; vertical-align: top; border: none;">
-      <img src="https://media.giphy.com/media/tT2FEbKu63KxdFubmY/giphy.gif" width="100" style="display: block; border-radius: 8px;" alt="Animated GIF">
+      <img src="https://media.giphy.com/media/tT2FEbKu63KxdFubmY/giphy.gif" width="200" style="display: block; border-radius: 8px;" alt="Animated GIF">
     </td>
     <td style="vertical-align: top; border: none;">
       <p><strong>🚗 Embedded Software Engineer:</strong> Currently working in the automotive industry in India.</p>
