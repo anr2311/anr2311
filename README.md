@@ -41,15 +41,14 @@
 ---
 
 ### 🔥 Stats :
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=anr2311&theme=flag-india" alt="GitHub Streak" width="550" height="300" style="object-fit: cover;"/>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <a href="https://git.io/streak-stats" style="flex: 1 1 300px; max-width: 550px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=anr2311&theme=flag-india" alt="GitHub Streak" style="width: 100%; height: auto;"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anr2311" alt="Top Languages" width="300" height="200" style="object-fit: cover;"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1 1 300px; max-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anr2311" alt="Top Languages" style="width: 100%; height: auto;"/>
   </a>
 </div>
-
 
 
 ---
