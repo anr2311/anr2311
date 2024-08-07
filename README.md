@@ -5,12 +5,12 @@
 ---
 
 ### :woman_technologist: About Me :
-<table style="width: 100%; table-layout: fixed; border-collapse: collapse; border: none;">
+<table style="width: 100%; table-layout: fixed; border-collapse: collapse; border: 1px solid transparent;">
   <tr>
-    <td style="width: 150px; padding-right: 20px; vertical-align: top; border: none;">
+    <td style="width: 150px; padding-right: 20px; vertical-align: top; border: 1px solid transparent;">
       <img src="https://media.giphy.com/media/tT2FEbKu63KxdFubmY/giphy.gif" width="100" style="display: block;">
     </td>
-    <td style="vertical-align: top; border: none;">
+    <td style="vertical-align: top; border: 1px solid transparent;">
       <p>I am an Embedded Software Developer from India.</p>
       <p>I specialize in Firmware Development and Embedded Systems.</p>
     </td>
