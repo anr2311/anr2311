@@ -11,8 +11,8 @@
       <img src="https://media.giphy.com/media/tT2FEbKu63KxdFubmY/giphy.gif" width="100" style="display: block;">
     </td>
     <td style="vertical-align: top; border: none; border-color: transparent;">
-      <p>- :telescope: I'm an Embedded Software Engineer associated with the automotive industry in India.</p>
-      <p>- :telescope: Associated with the auotomotive electronics and associated software.</p>
+      <p>- 🚗: I'm an Embedded Software Engineer associated with the automotive industry in India.</p>
+      <p>- 🌱: Pursuing my master's in Embedded Systems from Birla Institute of Technology and Sciences, Pilani.</p>
     </td>
   </tr>
 </table>
