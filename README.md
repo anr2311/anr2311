@@ -11,7 +11,7 @@
       <img src="https://media.giphy.com/media/tT2FEbKu63KxdFubmY/giphy.gif" alt="Top Languages" style="width: 100%; height: auto;">
     </td>
     <td style="width: 50%; padding: 10px; box-sizing: border-box;">
-      <p><strong>🚗 Embedded Software Engineer:</strong> Currently working in the automotive industry in India.</p>
+      <p><strong>🚗 Work:</strong> Embedded Software Engineer in the Automotive Industry.</p>
       <p><strong>🌱 Education:</strong> Pursuing a master’s degree in Embedded Systems from BITS, Pilani.</p>
       <p><strong>🍕 Hobbies:</strong> In my free time I work on exciting projects involving sensors & microcontroller-based systems.</p>
       <p><strong>📫 Connect with Me:</strong> Feel free to give me a ping on
