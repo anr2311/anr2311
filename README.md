@@ -41,14 +41,20 @@
 ---
 
 ### 🔥 Stats :
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
-  <a href="https://git.io/streak-stats" style="flex: 1 1 50%; max-width: 550px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=anr2311&theme=flag-india" alt="GitHub Streak" style="width: 100%; height: auto;"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1 1 50%; max-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anr2311" alt="Top Languages" style="width: 100%; height: auto;"/>
-  </a>
-</div>
+<table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%; padding: 10px; box-sizing: border-box;">
+      <a href="https://git.io/streak-stats" style="display: block;">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=anr2311&theme=flag-india" alt="GitHub Streak" style="width: 100%; height: auto;"/>
+      </a>
+    </td>
+    <td style="width: 50%; padding: 10px; box-sizing: border-box;">
+      <a href="https://github.com/anuraghazra/github-readme-stats" style="display: block;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anr2311" alt="Top Languages" style="width: 100%; height: auto;"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
