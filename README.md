@@ -12,7 +12,7 @@
     </td>
     <td style="vertical-align: top; border: none; border-color: transparent;">
       <p>I am an Embedded Software Developer from India.</p>
-      <p>- :telescope: I’m working as a Software Engineer and contributing to development of the automotive electronics and related software.</p>
+      <p>- :telescope: Associated with the auotomotive electronics and associated software.</p>
     </td>
   </tr>
 </table>
