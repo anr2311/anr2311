@@ -4,4 +4,4 @@
 
 ---
 ### :woman_technologist: About Me :
-I am an Embedded Software Developer <img src="https://media.giphy.com/media/tT2FEbKu63KxdFubmY/giphy.gif" width="60" style="float: right; margin-left: 10px;"> from India.
+I am an Embedded Software Developer from India. <img src="https://media.giphy.com/media/tT2FEbKu63KxdFubmY/giphy.gif" width="60" style="float: right; margin-left: 10px;">
