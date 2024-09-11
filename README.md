@@ -1,6 +1,6 @@
-<div id="header" align="center">
+<!--<div id="header" align="center">
   <img src="Hello_Animation_GiF.gif" width="auto" height="auto" alt="Hello Animation"/>
-</div>
+</div>-->
 
 ---
 
