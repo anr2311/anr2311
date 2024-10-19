@@ -44,13 +44,12 @@
 <table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
   <tr>
     <td style="width: 50%; padding: 10px; box-sizing: border-box;">
-      <a href="https://git.io/streak-stats" style="display: block;">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=anr2311&theme=flag-india" alt="GitHub Streak" style="width: 100%; height: auto;"/>
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anr2311&theme=whatsapp-light&hide_border=true" alt="GitHub Streak" />
       </a>
     </td>
     <td style="width: 50%; padding: 10px; box-sizing: border-box;">
-      <a href="https://github.com/anuraghazra/github-readme-stats" style="display: block;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anr2311" alt="Top Languages" style="width: 100%; height: auto;"/>
+      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=anr2311&cache_seconds=1800">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anr2311&cache_seconds=1800" alt="Top Languages" style="width: 100%; height: auto;"/>
       </a>
     </td>
   </tr>
