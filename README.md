@@ -12,7 +12,7 @@
     </td>
     <td style="width: 50%; padding: 10px; box-sizing: border-box;">
       <p><strong>🚗 Work:</strong> Embedded Software Engineer in the Automotive Industry.</p>
-      <p><strong>🌱 Education:</strong> Pursuing a master’s degree in Embedded Systems from BITS, Pilani.</p>
+      <p><strong>🌱 Education:</strong> Master’s Degree in Embedded Systems Design from BITS, Pilani.</p>
       <p><strong>🍕 Hobbies:</strong> In my free time I work on exciting projects involving sensors & microcontroller-based systems.</p>
       <p><strong>📫 Connect with Me:</strong> Feel free to give me a ping on
       <a href="https://www.linkedin.com/in/adinr/" style="display: inline-block; vertical-align: middle;">
