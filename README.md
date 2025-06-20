@@ -43,8 +43,8 @@
 ### 🔥 Stats :
 <table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
   <tr>
-    <td style="width: 50%; padding: 10px; box-sizing: border-box;">
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anr2311" alt="GitHub Streak" /></a>
+    <td style="width: 50%; padding: 10px; box-sizing: border-box;">        
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=anr2311" alt="GitHub Streak" /></a>
     </td>
     <td style="width: 50%; padding: 10px; box-sizing: border-box;">
       <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=anr2311&cache_seconds=1800">
