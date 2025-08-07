@@ -11,9 +11,9 @@
       <img src="https://media.giphy.com/media/tT2FEbKu63KxdFubmY/giphy.gif" alt="Top Languages" style="width: 100%; height: auto;">
     </td>
     <td style="width: 50%; padding: 10px; box-sizing: border-box;">
-      <p><strong>🚗 Work:</strong> Embedded Software Engineer in the Automotive Industry.</p>
+      <p><strong>🚗 Work:</strong> Software Development Engineer in the Telecom / Networking Industry.</p>
       <p><strong>🌱 Education:</strong> Master’s Degree in Embedded Systems Design from BITS, Pilani.</p>
-      <p><strong>🍕 Hobbies:</strong> In my free time I work on exciting projects involving sensors & microcontroller-based systems.</p>
+      <p><strong>🍕 Hobbies:</strong> In my free time I work on exciting projects involving IoT and microcontroller-systems.</p>
       <p><strong>📫 Connect with Me:</strong> Feel free to give me a ping on
       <a href="https://www.linkedin.com/in/adinr/" style="display: inline-block; vertical-align: middle;">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 10%; padding: 10px; border-collapse: collapse; table-layout: fixed;">
